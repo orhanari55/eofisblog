@@ -1,0 +1,63 @@
+<p>Pazarlama var olduðu günden bu yana farklý yönlere evirilerek devamlýlýðýný saðlayan sektörlerin baþýnda gelir. Özellikle teknolojik geliþmelerin hýz kazanmasýyla birlikte dijitalleþen sektörlerden biri haline gelen pazarlamada sýklýkla karþýlaþacaðýnýz en önemli terimlerden biri de kuþkusuz persona olacaktýr. Hedef kitleyi daha yakýndan tanýmak için kullanýlan ve bir anlamda “hayali kiþilik” ismiyle de anýlan persona hakkýnda merak edilen tüm detaylarý dikkatli bir biçimde ele almak birçok iþletmenin iyi bir pazarlama stratejisi belirlemesinde etkilidir. Buna göre persona nedir, nasýl oluþturulur ve nasýl bir süreci kapsar?</p>
+<br />
+<p>Persona Nedir?<br />Kurgusal bir kimlik olarak karþýmýza çýkabilen persona, herhangi bir müþterinin farklý kaynaklardan faydalanýlarak kim olduðu, yaþý, cinsiyeti, nerede yaþadýðý, medeni hali, yönelimleri gibi pek çok detayýn incelenerek oluþturulduðu kimliðine verilen isimdir. Birçok iþletmenin detaylý olarak incelediði ve yapýlan analizler sonrasýnda ortaya koyabildiði persona inceleme kimliði iþletmeye pazarlama için izleyeceði yolu çizer. “Hayali kimlik”, “kimlik”, “karakter” gibi isimlerle anýlan persona kavramýnýn temel iþleyiþi müþteriyi tanýma ve ona uygun pazarlama stratejilerini reklamlarla birleþtirebilmeyi saðlar.</p>
+<br />
+<p>Persona Örnekleri Nelerdir?<br />Her baþarýlý firmanýn elindeki ürün ya da hizmeti pazarlamak için kullanabileceði persona insan kaynaklarý baþta olmak üzere diðer birimlerle ortak çalýþýlarak ortaya koyulan detaylý bir çalýþmanýn sonucudur. Buna göre basite indirgenmemesi gereken persona oluþturma eylemi tahmin ya da varsayýmlar deðil de gerçek verilerle hareket etmenizi saðlar. Örnekleme yaparak açýklandýðýnda daha net anlaþýlabilecek bu durum için basit bir persona örneði vermek gerekirse; Kadýn ve erkek ayakkabýsý pazarlayan bir firma, elindeki kaynaklarý kullanarak var olan ya da potansiyel müþteri kitlesine hitap eden Ahmet Bey’in persona kartýný çýkarýr. Buna göre ortaya dökülen persona þablonu þu verileri içerir:</p>
+<br />
+<p>· Adý: Ahmet Yan</p>
+<br />
+<p>· Yaþý: 35</p>
+<br />
+<p>· Medeni Durumu: Evli</p>
+<br />
+<p>· Yaþadýðý Yer: Ýstanbul</p>
+<br />
+<p>· Ýþ Durumu: Full time çalýþma</p>
+<br />
+<p>· Aylýk Gelir: Asgari ücret üzeri</p>
+<br />
+<p>· Eðitim Durumu: Lisans</p>
+<br />
+<p>· Hobileri: Futbol, sanal oyunlar, alýþveriþ, seyahat, görsel sanatlar.</p>
+<br />
+<p>· Amaçlarý: Kariyerinde yükselmek isteyen Ahmet Bey sýk sýk online eðitimlere katýlýyor. Görsel sanatlara olan ilgisini gerçekleþtirmek üzere internet üzerinden sýk sýk araþtýrmalar yapýyor ve kendi bütçesine uygun seçimlere yöneliyor. Çocuklu ve evli olan Ahmet Bey ayný zamanda uygun fiyatlý alýþveriþ seçeneklerini deðerlendiriyor.</p>
+<br />
+<p>Burada bir firmanýn pek çok kaynaðý kullanarak oluþturduðu persona, firmanýn Ahmet Bey’in satýn alma isteðini hangi pazarlama stratejisi kullanarak artýrabileceðini söyler. Bu ve bunun gibi ortaya koyulabilen persona örnekleri birebir ya da benzer eðilimleri olan müþteri kitlesinin satýn alma isteðini artýracak yöntemlerin saptanmasýnda kullanýlýr.</p>
+<br />
+<p>Persona Nasýl Oluþturulur?<br />Persona belirleme ilk etapta son derece basit bir iþlem gibi gözükebilir. Lakin durum bu kadar basit olmadýðý gibi birçok alanda yapýlmasý gereken araþtýrma ve analizlere dayanýr. Buna göre baþarýlý bir pazarlama stratejisi izleyen iþletmelerin izlediði persona teknikleri þu aþamalardan oluþur:</p>
+<br />
+<p>· Ýþletmede var olan bilgilerden faydalanmak,</p>
+<br />
+<p>· Sosyal medya ve web sitedeki verilerden faydalanmak,</p>
+<br />
+<p>· Müþteriyle birebir iletiþimi olan çalýþma arkadaþlarýnýn görüþleri,</p>
+<br />
+<p>· Müþterilerle birebir görüþme saðlayacak yöntemlerden alýnan dönütler,</p>
+<br />
+<p>· Nitel ve nicel anketlerden gelen veriler,</p>
+<br />
+<p>· Tüm verilerin tek bir çatý altýnda toplanarak incelenmesiyle persona þablonu için kriterlerin belirlenmesi.</p>
+<br />
+<p>Adým adým ilerlenen ve son aþamada tüm verilerin harmanlanmasýyla oluþturulan persona bu verilere en çok uyan kitleye yönelik pazarlama stratejileri geliþtirmenizi saðlar. Böylece deneme yanýlma, varsayým ya da tahminlere baðlý kalmadan daha nokta atýþý strateji ve reklam kampanyalarý yönetilebilir.</p>
+<br />
+<p>Giriþimciler Ýçin Persona Belirleme Süreci Nasýl Ýþler?<br />Giriþimci olarak herhangi bir sektörde baþarýlý olan isteyen kiþiler için persona belirleme sanýldýðýndan çok daha önemlidir. Potansiyel müþteri kitlesiyle görüþmekten tutun da bu müþterileri daha yakýndan tanýmaya kadar uzanan süreç belli baþlý adýmlardan oluþur. Buna göre giriþimciler için persona belirleme süreci þu þekilde özetlenebilir:</p>
+<br />
+<p>· Kitle araþtýrmasýný geniþ çaplý tutmak</p>
+<br />
+<p>Her bir giriþimci persona oluþturma aþamasýnda kitlesini geniþ çaplý olarak ele almalýdýr. Ýnternetin getirdiði avantajlarý deðerlendirerek hedef kitle analizini saðlayan uygulamalardan destek alýnmalýdýr. Öte yandan pazarlama, reklam, müþteri hizmetleri, veri analiz vb. gibi çoðu departman kimlik oluþturulmasýnda etkiliyken persona insan kaynaklarý odaklý ilerler.</p>
+<br />
+<p>· Hedef kitlenin beklentileri ve sorunlarýný tanýmlayabilmek</p>
+<br />
+<p>Persona oluþtururken hedef kitlenin beklentilerine odaklanmak büyük fayda saðlarken sorunlarý görmezden gelmek büyük bir hataya sebep olur. Keza potansiyel kitlenin hangi alanda sorun yaþadýðýný saptayabilmek ve o sorunlarý çözebilmek tercih edilebilirliðinizi artýrýr.</p>
+<br />
+<p>· Müþterilerin hedefini saptayabilmek</p>
+<br />
+<p>Potansiyel müþteri kitlesi satýn alma süreci boyunca nasýl bir hedef izliyor ve neye göre satýn alma iþlemi gerçekleþtiriyor gibi önemli sorularýn yanýtlanmasý gerekir. Buradan çýkacak sonuçlara göre bu kitleye uygun stratejinin belirlenebilmesi daha kolay olacaktýr.</p>
+<br />
+<p>· Markayý müþteri kitlesine açýklayabilmek</p>
+<br />
+<p>Markanýn potansiyel müþteri kitlesine doðru olarak açýklanmasý ve markanýn bu söz konusu kitleye katacaðý faydalarýn belirlenmesi aþamasýdýr. Bu aþama marka deðerinin ortaya çýkmasý ve persona belirlenmesinde son derece etkilidir.</p>
+<br />
+<p>· Aktif personaya odaklý hareket etmek</p>
+<br />
+<p>Tüm aþamalarýn izlenmesinden sonra ortaya koyulan persona þablonu sonraki müþteri kitlesinin devamlýlýðýnda büyük katký saðlar. Verilerin toplanmasý, analizi ve stratejilerin doðru belirlenebilmesinde artýk elde var olan aktif personadan faydalanýlýr.</p>

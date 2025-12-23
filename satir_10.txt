@@ -1,0 +1,27 @@
+<h4>Ofisiniz Param Kart’ýnýz ile Hazýr!</h4>
+<br />
+<ul><br />    <li>Param Kart’ýnýz ile eOfis’den yapacaðýnýz harcamalarda harcama bedelinizin %10’u Param tarafýndan ödemeniz sonrasý anýnda kartýnýza iade edilecektir.</li><br />    <li>Kampanya sanal ofis, paylaþýmlý ofis, hazýr ofis, toplantý/seminer odasý rezervasyonlarýnda geçerlidir.</li><br />    <li>Bu avantajdan yararlanabilmek için Param Kart’ýnýzda yeterli bakiye olmasý gerekmektedir.</li><br />    <li>TURK Elektronik Para A.Þ. ve eOfis kampanya koþullarýnda deðiþiklik yapma hakkýný saklý tutar.</li><br /></ul>
+<br />
+<br />
+<br />
+<p>Param Kart’ýnýza kredi kartý ile ya da havale/EFT yaparak TL yüklemek için <a href="TL_Yukle.aspx">týklayýnýz.</a></p>
+<br />
+<p>Param Kart baþvurusu yapmak için <a href="Basvuru.aspx">týklayýnýz.</a></p>
+<br />
+<p>eOfis ve lokasyonlarý hakkýnda detaylý bilgi almak için <strong><a href="https://www.eofis.com.tr/" target="_blank">týklayýnýz.</a></strong> <br /><br /><strong>Telefon:</strong> 444 34 80<br /><br /><strong>e-mail:</strong><a href="mailto:eofis@eofis.com.tr">eofis@eofis.com.tr</a></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<h3>Sanal Ofis</h3>
+<br />
+<p>Ýþ yapmak için asýl ihtiyacýnýz fiziki bir ofis deðilse, sanal ofistir. Çok hesaplý bir paket olan Sanal Ofis paketi, size iþiniz için ihtiyacýnýz olan tüm prestij ve kolaylýðý saðlar. Çaðrýlarýnýz, posta-kargolarýnýz ve misafirleriniz iþ adresinizi gösterdiðiniz eOfis’te profesyonel bir ekip tarafýndan karþýlanýp, size bildirilir. Tüm eOfis’lerde ön rezervasyonla toplantý odasý ve kýsa süreli ofis kullanýmý yapabilir, 37 A+ Plazada eOfis Business Lounge’larý ücretsiz olarak dilediðiniz zaman kullanabilirsiniz. Detaylý bilgi almak için <a href="https://www.eofis.com.tr/sanal-ofis" target="_blank"><strong>týklayýnýz</strong>.</a></p>
+<br />
+<h3>Hazýr Ofis </h3>
+<br />
+<p>Modern ve fonksiyonel mobilyalarla dekore edilmiþ, farklý m2’lerde, size özel, kapalý ofis alanlarýdýr. Bu paket üyeliði ile tek bir kira bedeli karþýlýðýnda; verimli çalýþmak deyince aklýnýza gelen tüm kurulum, donanýma ve hizmetlere sahip bir ofis ortamýna, profesyonel bir operasyon ekibine ve prestijli bir iþ adresine sahip olursunuz. Detaylý bilgi almak için  <a href="https://www.eofis.com.tr/hazir-ofis" target="_blank"><strong>týklayýnýz</strong>.</a>.</p>
+<br />
+<h3>Ortak Ofis </h3>
+<br />
+<p>Farklý sektörlerden profesyonellerle çalýþarak, ortak ofis ortamýnda çalýþma masasý ve sekreterlik hizmeti yeterlidir diyenler için en uygun çözüm Coworking. Ýþ birliði ve network saðlayacaðýnýz coworking hem verimli bir iþ ortamý hem de ihtiyaç duyulan ofis çözümlerini karþýlar. eOfis’ in prestijli 37 lokasyonundan size en uygununu seçerek iþ adresiniz, sekreterlik hizmeti ve ortak ofiste çalýþma masanýz hazýr olarak eOfis’in tüm hizmetlerinden yararlanabilir, paylaþýmlý ofis kullanmaya hemen baþlayabilirsiniz. Detaylý bilgi almak için <a href="https://www.eofis.com.tr/ortak-ofis" target="_blank"><strong>týklayýnýz</strong>.</a>.</p>

@@ -1,0 +1,57 @@
+<p><span style="font-weight: 400;">Bu noktada evlerinden çalýþan kiþilerin farklý yöntemler ile motivasyonlarýný arttýrmak ve iþ yönetimini saðlamak ekip ve þirket yöneticilerine düþüyor. Ayrýca kiþilerin kendi zamanlarýný efektif bir þekilde yönetmeleri ve evde yapacaklarý iþleri düzene oturtmalarý da iþlerin yolunda gitmesi için önemli.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Uzaktan çalýþanlarýn hem bireysel olarak kullanabilecekleri hem de ekip olarak iþleri daha verimli yapabilecekleri yeni nesil uygulamalar mevcut. Bu uygulamalardan en çok iþinize yarayacaðýný düþündüðümüz 9 tanesini sizler için derledik. Dilerseniz detaylarý bizlikte inceleyelim...&nbsp;</span></p>
+<br />
+<ol><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Trello</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Trello, proje yönetimi gerçekleþtiren bir uygulamadýr. Hayatýnýzý ve iþlerinizi bir düzene ve plana göre yönetebileceðiniz bu uygulama genel olarak hedeflerinizi ve o ana kadar yaptýklarýnýzý ayný ekran üzerinde görebilmenizi saðlýyor. Bu da yaptýklarýnýzý ve yapmak istediklerinizi düþünmenizdense önünüzü görmenize olanak saðlayarak zamandan tasarruf etmenizi kolaylaþtýrýyor.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Hem bilgisayardan hem de mobil cihazlardan rahatlýkla kullanabileceðiniz Trello; panolar, listeler ve kartlar olmak üzere üç temel ögeden oluþan arayüzü ile kullanýmý oldukça kolaydýr. Bu da projelerin daha kolay yönetilmesine, ekip yöneticilerinin kolayca ekip üyelerine görevler atayabilmesine ve yapýlan iþin takibine olanak tanýr.&nbsp;&nbsp;</span></p>
+<br />
+<ol start="2"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Asana</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Online bir görev takip uygulamasý olan Asana, uzaktan çalýþma þartý olmaksýzýn online ortamda çalýþan herkes için ideal bir uygulamadýr. Çünkü fiziksel ortamda var olan toplantýlar, görev listeleri, hedeflerin yer aldýðý yazý tahtalarý v.b. araçlar olmadan da iþ takibinin bir þekilde yapýlmasý gerekir. Asana hem ekip olarak hem de bireysel olarak da iþlerinizin programýný tutabileceðiniz kullanýþlý bir uygulamadýr.</span></p>
+<br />
+<p><span style="font-weight: 400;">Asana ile ekip üyelerine veya kendinize kolayca görevler atayabilir, konu baþlýklarýný ayrý kiþilere daðýtýlabilir ve bunu görsel olarak sunabilirsiniz. Böylece iþ yükünü daðýtýr ve gerekli kontrolleri de yine program üzerinden saðlayabilirsiniz. Evden çalýþan veya yöneticilerinden uzakta çalýþan ekipler için oldukça uygun ve pratik bir uygulamadýr.</span></p>
+<br />
+<ol start="3"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Google Calendar</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">&nbsp;Google Calendar sadece iþ ile ilgili planlarýnýzý deðil kiþisel planlarýnýzý da bireysel olarak düzenleyen kiþisel bir takvim uygulamasýdýr. Ancak Google Calendar’ýn ekip halinde kullanýlmasý da mümkün. Örneðin ortak toplantýlarýn yaný sýra ekipten kimin ne zaman müsait olacaðýný görmek için Google Calendar’ý ekip üyeleri kendi içlerinde açýk tutabilirler. Böylece bir toplantý düzenlenmek istendiðinde veya bir iþin son tarihi öðrenilmek istendiðinde iþ hesabý ile girdiðiniz Google Calendar üzerinden hepsini görebilirsiniz. Böylece sürekli iletiþim kurmaya ve soru sormaya gerek kalmadan kimin ne iþ üzerinde çalýþtýðýný ve önemli toplantýlarýn ne zaman yapýlacaðýný görebilirsiniz.</span></p>
+<br />
+<ol start="4"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Slack</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Çalýþanlarýn iþ yerinde bile birbirleri ile mesajlaþmak için kullandýklarý yaygýn bir uygulamadýr. Çok fazla kiþinin birlikte çalýþtýðý yerlerde veya çalýþanlarýn birbirlerinden uzak olduðu, her daim ayný ortamda bulunamadýklarý iþ yerlerinde daha çok tercih edilir. Özellikle pek çok kiþinin evlerinde olduðu þu dönemde Slack ile sürekli iletiþim halinde olmak her açýdan oldukça mantýklý ve kullanýþlýdýr.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Pandemi dolayýsýyla evlerde çalýþanlarýn ofis ortamýnda olduklarý kadar rahat olmamasý ve ekip içi iletiþimin ayný yoðunlukta geçmemesi gibi bir durum söz konusu olabilir. Böyle durumlar için Slack hem iþlerin durumunun konuþulduðu hem de ekip içerisindeki iletiþimin devam ettiði bir platform olarak oldukça iþe yarar.&nbsp;</span></p>
+<br />
+<ol start="5"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Super-Productivity</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Günlük iþleri planlamak için bir baþka planlama programý olan Super-Productivity, hali hazýrda çalýþtýðýnýz ve sonrasýnda çalýþmanýz gereken tüm projeleri görmenizi ve hepsini kontrollü bir þekilde tamamlamanýzý saðlar.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Bilgisayarýnýzdan veya telefonunuzdan eriþebileceðiniz Super-Productivity’i her gün gözden geçirerek yapmanýz gereken iþleri görebilir, görevleri bölümlere ayýrabilir, “alt görev ekle” seçeneði ile görevlerinizle ilgili atamalar yapabilirsiniz. Ayrýca bu programda görevlerinizi zaman atayarak tamamlamanýz da mümkün. Üzerinde çalýþtýðýnýz bir görevin ne zaman sonlanacaðýný görerek programý ona göre planlamak iþinizi daha çok kolaylaþtýracaktýr.</span></p>
+<br />
+<ol start="6"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Monday.com</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Ekip iþ birliði için oldukça uygun ve güzel bir platform olan Monday.com’un bakliyat ismini verdiði panolar aracýlýðý ile iþleri kendinize ve baþkalarýna atayabilirsiniz. Monday.com ekiplerinizin projelerini ve tüm günlük iþleri yoluna sokmalarýný saðlar. Monday.com ile ekibinizi her zaman bir araya getirebilir ve iþleri bu sayede kolaylýkla takip edebilirsiniz.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Monday.com’un en güzel avantajlarýndan birisi özelleþtirilebilen þablonlarýdýr. Görevin durumunu, atananlarý, konumlarýný ve bitiþ tarihlerini bir bakýþta görmek için sprintleri de renklendirebilirsiniz. Ayrýca ilerlemenizi ölçmek ve ekibin performansýný artýrmak amacýyla sprintleri bir plan görünümüne getirebilir ve takibini o þekilde yapabilirsiniz.</span></p>
+<br />
+<ol start="7"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Skype</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Ýþ mailiniz ile bir giriþ oluþturduðunuzda ekiplerin birbirleri ile hem görüntülü konuþmasýný saðlar hem de yazýþmalarýna destek olur. Çeþitli gruplar ile veya bire bir olarak Skype üzerinden yazýþmak mümkündür. Skype’ý bilgisayar için kullanabileceðiniz gibi ayný zamanda mobil versiyonunu da kullanabilirsiniz. Böylece þirket içerisinde yapýlan yazýþmalarýn hiçbirisini kaçýrmamýþ olursunuz.</span></p>
+<br />
+<p><span style="font-weight: 400;">Skype’ýn sadece iþ deðil özel hayatta da etkili bir iletiþim saðlamak için rahatlýkla kullanabilen bir program olduðunu unutmamak gerekir.</span></p>
+<br />
+<ol start="8"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Zenkit</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Zenkit týpký yukarýda bahsettiðimiz uygulamalarýn birçoðu gibi projelerin zamanýný yönetmenizin yaný sýra bütçeleri de yönetmenizi saðlayan bir uygulamadýr. Sunduðu takvim ile güncel kalmanýzý saðlar, ayrýca tüm projelerinizin basit halini görebilmenize yardýmcý olur. Etkinliklerim kýsmýndan ekibinizde oluþturduðunuz takýmlarýn veya bireylerin neler yaptýðýný toplu olarak görebilme imkâný sunar.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Büyük miktarlarda veri ile çalýþan ve buna kolayca eriþmesi gereken IT ekipleri için daha uygun olan Zenkit ayný zamanda çevrimdýþý çalýþma özelliðine de sahiptir. Ýnternet baðlantýsý olmadýðýnda veya güvenilmez bir internet baðlantýsýna sahip olunan noktalarda kullanýcýlarýn görevlerini yürütmeye devam etmelerine yardýmcý olur.</span></p>
+<br />
+<ol start="9"><br /><li><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><strong>Jira</strong></li><br /></ol>
+<br />
+<p><span style="font-weight: 400;">Bulut tabanlý, þirket içi seçenekler sunan bir proje yönetimi aracýdýr. Jira, þirketler tarafýndan hem iþ akýþ süreçlerini takip etmek hem de müþterilerin veya kullanýcýlarýn isteklerine, sorun ve hatalara yanýt vermek amacýyla kullanýlýr. Jira ile hata kaydý, kaydý açýlmýþ hatalarýn takibi, derinlemesine raporlama gibi birçok farklý þeyi birlikte yapabilirsiniz.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Yeni baþlayanlar için Jira, diðer uygulamalardan çok daha karýþýktýr ve biraz daha pahalý olabilir ancak özelleþtirilmiþ seçenekleri ve raporlama araçlarýyla iyi kalitede bir hizmet sunar.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Ýþ yerinde ekip arkadaþlarýnýzla birlikte uzaktan çalýþmanýza fayda saðlayabileceðini düþündüðümüz planlama ve iletiþim araçlarýný sizlerle paylaþtýk. Elbette daha farklý ve normalde bireysel olarak kullanýlan araçlarý da bir þekilde ekibinize entegre ederek iþlerin verimliliði için kullanabilirsiniz. Hem unutmayýn ki verimlilik yalnýzca iþler ile ilgili veya sadece iþ saatleri içerisinde olan bir þey deðildir. Farklý uygulamalar bularak uzaktan çalýþsanýz dahi ekibinizi bir arada tutar hatta kiþi sayýsýna baðlý olarak oyun, film günleri gibi aktivitelerle ekibin motivasyonunu arttýrabilir.&nbsp;</span></p>
